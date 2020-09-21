@@ -1,2 +1,2 @@
 # rsschool-cv
-1. *Anton Brazouski*
+Anton Brazouski's resume 
